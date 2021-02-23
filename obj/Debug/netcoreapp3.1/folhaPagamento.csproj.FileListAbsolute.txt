@@ -1,0 +1,13 @@
+C:\Users\fernanda\source\repos\folhaPagamento\folhaPagamento\bin\Debug\netcoreapp3.1\folhaPagamento.exe
+C:\Users\fernanda\source\repos\folhaPagamento\folhaPagamento\bin\Debug\netcoreapp3.1\folhaPagamento.deps.json
+C:\Users\fernanda\source\repos\folhaPagamento\folhaPagamento\bin\Debug\netcoreapp3.1\folhaPagamento.runtimeconfig.json
+C:\Users\fernanda\source\repos\folhaPagamento\folhaPagamento\bin\Debug\netcoreapp3.1\folhaPagamento.runtimeconfig.dev.json
+C:\Users\fernanda\source\repos\folhaPagamento\folhaPagamento\bin\Debug\netcoreapp3.1\folhaPagamento.dll
+C:\Users\fernanda\source\repos\folhaPagamento\folhaPagamento\bin\Debug\netcoreapp3.1\folhaPagamento.pdb
+C:\Users\fernanda\source\repos\folhaPagamento\folhaPagamento\obj\Debug\netcoreapp3.1\folhaPagamento.csprojAssemblyReference.cache
+C:\Users\fernanda\source\repos\folhaPagamento\folhaPagamento\obj\Debug\netcoreapp3.1\folhaPagamento.AssemblyInfoInputs.cache
+C:\Users\fernanda\source\repos\folhaPagamento\folhaPagamento\obj\Debug\netcoreapp3.1\folhaPagamento.AssemblyInfo.cs
+C:\Users\fernanda\source\repos\folhaPagamento\folhaPagamento\obj\Debug\netcoreapp3.1\folhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\fernanda\source\repos\folhaPagamento\folhaPagamento\obj\Debug\netcoreapp3.1\folhaPagamento.dll
+C:\Users\fernanda\source\repos\folhaPagamento\folhaPagamento\obj\Debug\netcoreapp3.1\folhaPagamento.pdb
+C:\Users\fernanda\source\repos\folhaPagamento\folhaPagamento\obj\Debug\netcoreapp3.1\folhaPagamento.genruntimeconfig.cache
